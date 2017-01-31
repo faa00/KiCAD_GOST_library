@@ -1,7 +1,7 @@
 # KiCAD_GOST_library
 Library for KiCAD GOST from Aldan 27.01.2016 
 
-[Цитата с форума] (https://electronix.ru/forum/index.php?showtopic=111723&st=60&start=60):
+[Цитата с форума] (https://electronix.ru/forum/index.php?showtopic=111723&view=findpost&p=1399263):
 
 ***В связи с выходом новой стабильной версии KiCad переделал библиотеку 3-х летней давности.
 Схемотехническая библиотека мало изменилась: в ней были произведены некоторые уточнения.
